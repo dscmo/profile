@@ -2,12 +2,11 @@
 
 ## About Me
 <p align="center">
-<a> <b>Hi, i'm **dscmo**, an beginner coder that are learning some *.py and .js*</b> </a>
+<a> <b>Hi, i'm dscmo, an beginner coder that are learning some <i>.py and .js</i></b> </a>
 </p>
 
 ## Skills and Technologies
-
-- **Languages**: [List your programming languages, e.g., JavaScript, Python, Java]
+- **Learning:** <i>{Python, Javascript, HTML, CSS.}</i>
 - **Frameworks**: [List your frameworks, e.g., React, Angular, Django]
 - **Tools**: [List your tools, e.g., Git, Docker, Jenkins]
 - **Databases**: [List your databases, e.g., MySQL, MongoDB, PostgreSQL]
