@@ -2,7 +2,7 @@
 
 ## About Me
 <p align="center">
-<a> ## Hi, i'm **dscmo**, an beginner coder that are learning some *.py and .js* </a>
+<a> <b>Hi, i'm **dscmo**, an beginner coder that are learning some *.py and .js*</b> </a>
 </p>
 
 ## Skills and Technologies
