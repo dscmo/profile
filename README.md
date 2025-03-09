@@ -1,7 +1,6 @@
+# Welcome to dscmo's profile, my profile!
 
-## About Me
 <p align="center">
-# 💾 ✦ Welcome to my GitHub Profile!
 <a> <b>Hi, i'm dscmo, an beginner coder that are learning some <i>.py and .js</i></b> </a>
 </p>
 
