@@ -2,9 +2,10 @@
 ## About Me
 <p align="center">
 # 💾 ✦ Welcome to my GitHub Profile!
-</p>
 <a> <b>Hi, i'm dscmo, an beginner coder that are learning some <i>.py and .js</i></b> </a>
-##  More about me
+</p>
+
+## 📄 ✦ More about me
 <p align="center">
 <a>📚 ✦ **Learning** <i>{Python, Javascript, HTML and CSS.}</i>
 <i>Node.js</i> **:Learning Frameworks** ✦ ⌨️
